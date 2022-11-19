@@ -1,0 +1,1 @@
+const  tipo_fuente_poppins = "Poppins";
